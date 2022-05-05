@@ -1,0 +1,9 @@
+This folder contains: 
+* 2classes:          Pendule (return a non real simulation)
+                     Lineariser_Le_Systeme
+
+* 4 simulations: 0 - Pendule_Simple.py
+                 1 - Pendule_Simple_barre.py
+                 2 - Pendule_Simple_Force.py
+                 3 - Pendule_Inverse_Controle.py
+
